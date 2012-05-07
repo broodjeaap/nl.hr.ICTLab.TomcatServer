@@ -1,0 +1,81 @@
+html 
+{ 
+	height: 100% 
+}
+body 
+{ 
+	height: 100%; 
+	margin: 0; 
+	padding: 0 
+}
+
+#wrapper 
+{
+	width:100%;
+	height:100%;
+}
+
+#collections
+{
+	float:left;
+	width:20%;
+	height:100%;
+}
+
+#controls
+{
+	float:left;
+	height:15%;
+}
+
+#map_canvas 
+{
+	width:100%;
+	height:100%;
+}
+
+#slider-range
+{
+	width:100%;
+	margin:0 10px 5px 0;
+}
+
+div.selection 
+{
+	border-radius: 5px;
+	border: 1px solid #BBB;
+	margin: 0 0 10px 0;
+	padding: 5px 10px 5px 10px;
+	background-color:#ddd;
+}
+
+div.range
+{
+	border-radius: 5px;
+	border: 1px solid #BBB;
+	margin: 0 0 10px 0;
+	padding: 5px 100px 5px 100px;
+	background-color:#ddd;
+}
+
+#collectionTable
+{
+	border-spacing:0px;
+}
+.collectionTableEven
+{
+	background-color:#ddd;
+}
+
+.collectionTableOdd
+{
+	background-color:#aaa;
+}
+
+.collectionControlsWrapper
+{
+	background-color:#aaa;
+	border-radius: 5px;
+	border: 1px solid #BBB;
+	padding: 20px;
+}
