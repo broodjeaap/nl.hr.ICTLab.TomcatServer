@@ -60,7 +60,7 @@ public class Main extends HttpServlet {
         					"<link rel=\"stylesheet\" type=\"text/css\" href=\"static/style.css\">"+
         					"<link rel=\"stylesheet\" type=\"text/css\" href=\"static/jquery-ui-1.8.18.custom.css\">"+
         					"<script type=\"text/javascript\""+
-        						"src=\"http://maps.googleapis.com/maps/api/js?key=AIzaSyBUHKNVPkzNbOjejdzPKIVIMK12IU7w4Vg&sensor=false\">"+
+        						"src=\"http://maps.googleapis.com/maps/api/js?sensor=false\">"+
         					"</script>"+
         					"<script type=\"text/javascript\">"+
         						"var markers = [];" +
